@@ -1,0 +1,4 @@
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesInterface\obj\Debug\netcoreapp3.1\EmployeesInterface.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesInterface\obj\Debug\netcoreapp3.1\EmployeesInterface.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesInterface\obj\Debug\netcoreapp3.1\EmployeesInterface.AssemblyInfo.cs
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesInterface\obj\Debug\netcoreapp3.1\EmployeesInterface.csproj.CoreCompileInputs.cache

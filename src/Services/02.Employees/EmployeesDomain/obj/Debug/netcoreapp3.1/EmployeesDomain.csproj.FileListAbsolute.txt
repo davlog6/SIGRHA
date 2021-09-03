@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Debug\netcoreapp3.1\EmployeesDomain.deps.json
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Debug\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Debug\netcoreapp3.1\EmployeesDomain.pdb
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.AssemblyInfo.cs
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.pdb

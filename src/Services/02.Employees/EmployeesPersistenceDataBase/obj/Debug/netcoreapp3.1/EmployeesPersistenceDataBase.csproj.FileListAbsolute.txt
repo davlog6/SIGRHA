@@ -1,0 +1,12 @@
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.deps.json
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.pdb
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Debug\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Debug\netcoreapp3.1\EmployeesDomain.pdb
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.AssemblyInfo.cs
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.csproj.CopyComplete
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Debug\netcoreapp3.1\EmployeesPersistenceDataBase.pdb

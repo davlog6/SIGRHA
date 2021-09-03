@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\bin\Debug\netcoreapp3.1\ClientsDomain.deps.json
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\bin\Debug\netcoreapp3.1\ClientsDomain.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\bin\Debug\netcoreapp3.1\ClientsDomain.pdb
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\obj\Debug\netcoreapp3.1\ClientsDomain.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\obj\Debug\netcoreapp3.1\ClientsDomain.AssemblyInfo.cs
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\obj\Debug\netcoreapp3.1\ClientsDomain.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\obj\Debug\netcoreapp3.1\ClientsDomain.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsDomain\obj\Debug\netcoreapp3.1\ClientsDomain.pdb

@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\bin\Debug\netcoreapp3.1\ClientsPersistenceDataBase.deps.json
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\bin\Debug\netcoreapp3.1\ClientsPersistenceDataBase.runtimeconfig.json
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\bin\Debug\netcoreapp3.1\ClientsPersistenceDataBase.runtimeconfig.dev.json
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\bin\Debug\netcoreapp3.1\ClientsPersistenceDataBase.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\bin\Debug\netcoreapp3.1\ClientsPersistenceDataBase.pdb
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\bin\Debug\netcoreapp3.1\ClientsDomain.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\bin\Debug\netcoreapp3.1\ClientsDomain.pdb
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.AssemblyInfo.cs
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.csproj.CopyComplete
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.dll
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.pdb
+C:\Users\david\source\repos\SIGRHA\src\Services\03.Clients\ClientsPersistenceDataBase\obj\Debug\netcoreapp3.1\ClientsPersistenceDataBase.genruntimeconfig.cache
