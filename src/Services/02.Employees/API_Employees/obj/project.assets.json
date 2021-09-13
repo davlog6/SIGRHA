@@ -7325,23 +7325,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\david\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\API_Employees\\API_Employees.csproj",
+      "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\API_Employees\\API_Employees.csproj",
       "projectName": "API_Employees",
-      "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\API_Employees\\API_Employees.csproj",
-      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\API_Employees\\obj\\",
+      "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\API_Employees\\API_Employees.csproj",
+      "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\API_Employees\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7349,15 +7345,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj"
+            "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj": {
+              "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj"
             }
           }
         }
@@ -7395,7 +7390,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -7404,7 +7399,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "message": "El paquete \"Microsoft.AspNet.WebApi.Core 5.2.7\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"

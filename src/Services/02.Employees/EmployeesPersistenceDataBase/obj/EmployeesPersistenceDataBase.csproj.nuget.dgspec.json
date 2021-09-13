@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj": {}
+    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj": {
+    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj",
         "projectName": "EmployeesDomain",
-        "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\obj\\",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj",
+        "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -58,24 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj": {
+    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
         "projectName": "EmployeesPersistenceDataBase",
-        "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\obj\\",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
+        "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,15 +76,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj"
+              "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj": {
+                "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj"
               }
             }
           }
@@ -126,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {}
+    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {
+    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
         "projectName": "API_Clients",
-        "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\obj\\",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
+        "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj"
+              "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
+                "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj"
               }
             }
           }
@@ -71,24 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
+    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
         "projectName": "ClientsDomain",
-        "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\obj\\",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
+        "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,8 +89,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -129,24 +121,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
+    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
         "projectName": "ClientsPersistenceDataBase",
-        "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\obj\\",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
+        "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,15 +143,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
-                "projectPath": "C:\\Users\\david\\source\\repos\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj"
+              "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
+                "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj"
               }
             }
           }
@@ -201,7 +189,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

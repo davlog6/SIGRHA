@@ -1,0 +1,10 @@
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\bin\Debug\netcoreapp3.1\OpportunitiesDomain.deps.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\bin\Debug\netcoreapp3.1\OpportunitiesDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\bin\Debug\netcoreapp3.1\OpportunitiesDomain.pdb
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\obj\Debug\netcoreapp3.1\OpportunitiesDomain.csproj.AssemblyReference.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\obj\Debug\netcoreapp3.1\OpportunitiesDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\obj\Debug\netcoreapp3.1\OpportunitiesDomain.AssemblyInfoInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\obj\Debug\netcoreapp3.1\OpportunitiesDomain.AssemblyInfo.cs
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\obj\Debug\netcoreapp3.1\OpportunitiesDomain.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\obj\Debug\netcoreapp3.1\OpportunitiesDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\obj\Debug\netcoreapp3.1\OpportunitiesDomain.pdb

@@ -6,3 +6,13 @@ C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj
 C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.csproj.CoreCompileInputs.cache
 C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.dll
 C:\Users\david\source\repos\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.pdb
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Debug\netcoreapp3.1\EmployeesDomain.deps.json
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Debug\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Debug\netcoreapp3.1\EmployeesDomain.pdb
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.csproj.AssemblyReference.cache
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.AssemblyInfoInputs.cache
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.AssemblyInfo.cs
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Debug\netcoreapp3.1\EmployeesDomain.pdb
