@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fNU18is+eYNa2+yRusp4wncn17W/biF8p1P/Tucmi8dTCVJDAdAFWB8UmwMaoom+IOhx4wvj6rL1wEG7VMm5JQ==",
+  "dgSpecHash": "IaOnzxqFd75x8oi5OA638cqArQVnuDHK9Xfc+Ov/5gUldUy9ga3JZBLXFcEiKDospGTHAZ4r4GXlvm+qZTZqxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
+  "projectFilePath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

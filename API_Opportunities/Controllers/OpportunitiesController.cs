@@ -26,10 +26,7 @@ namespace API_Opportunities.Controllers
         /// Default constructor to initialize de DbContext
         /// </summary>
         /// <param name="_context"></param>
-        public OpportunitiesController(ApplicationDbContext _context)
-        {
-            this.context = _context;
-        }
+        public OpportunitiesController(ApplicationDbContext _context) => context = _context;
 
         // GET: <ValuesController>
         [HttpGet]
@@ -93,16 +90,123 @@ namespace API_Opportunities.Controllers
             IQueryable<OpportunityModel> items;
             if(pagination.SortDirection == "" || pagination.SortDirection == "asc")
             {
-                items = FindAll()
-                        .OrderBy(op => pagination.SortColumn)
+                switch(pagination.SortColumn.ToLower())
+                {
+                    case "idclient":
+                        items = FindAll()
+                        .OrderBy(op => op.IdClient)
                         .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
                         .Take(pagination.PageSize);
-            } else
+                        break;
+                    case "opportunityname":
+                        items = FindAll()
+                        .OrderBy(op => op.OpportunityName)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "idopportunitystatus":
+                        items = FindAll()
+                        .OrderBy(op => op.IdOpportunityStatus)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "idopportunitytype":
+                        items = FindAll()
+                        .OrderBy(op => op.IdOpportunityType)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "opportunitygoesby":
+                        items = FindAll()
+                        .OrderBy(op => op.OpportunityGoesBy)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "opportunitynotes":
+                        items = FindAll()
+                        .OrderBy(op => op.OpportunityNotes)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "updateddate":
+                        items = FindAll()
+                        .OrderBy(op => op.UpdatedDate)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "createddate":
+                        items = FindAll()
+                        .OrderBy(op => op.CreatedDate)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    default:
+                        items = FindAll()
+                        .OrderBy(op => op.IdOpportunity)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                }
+            } 
+            else
             {
-                items = FindAll()
-                        .OrderByDescending(op => pagination.SortColumn)
+                switch (pagination.SortColumn.ToLower())
+                {
+                    case "idclient":
+                        items = FindAll()
+                        .OrderByDescending(op => op.IdClient)
                         .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
                         .Take(pagination.PageSize);
+                        break;
+                    case "opportunityname":
+                        items = FindAll()
+                        .OrderByDescending(op => op.OpportunityName)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "idopportunitystatus":
+                        items = FindAll()
+                        .OrderByDescending(op => op.IdOpportunityStatus)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "idopportunitytype":
+                        items = FindAll()
+                        .OrderByDescending(op => op.IdOpportunityType)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "opportunitygoesby":
+                        items = FindAll()
+                        .OrderByDescending(op => op.OpportunityGoesBy)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "opportunitynotes":
+                        items = FindAll()
+                        .OrderByDescending(op => op.OpportunityNotes)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "updateddate":
+                        items = FindAll()
+                        .OrderByDescending(op => op.UpdatedDate)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    case "createddate":
+                        items = FindAll()
+                        .OrderByDescending(op => op.CreatedDate)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                    default:
+                        items = FindAll()
+                        .OrderByDescending(op => op.IdOpportunity)
+                        .Skip((pagination.CurrentPage - 1) * pagination.PageSize)
+                        .Take(pagination.PageSize);
+                        break;
+                }
             }
 
             int TotalCount = context.Opportunity.Count();
@@ -125,7 +229,7 @@ namespace API_Opportunities.Controllers
             return items.ToList();
         }
 
-        public IQueryable<OpportunityModel> FindAll()
+        private IQueryable<OpportunityModel> FindAll()
         {
             return context.Set<OpportunityModel>();
         }

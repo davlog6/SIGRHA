@@ -73,3 +73,10 @@ C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug
 C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\obj\Debug\netcoreapp3.1\API_Opportunities.csproj.CopyComplete
 C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\OpportunitiesDomain.dll
 C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\OpportunitiesDomain.pdb
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ErnestoSustaita\Source\Repos\davlog6\SIGRHA\API_Opportunities\obj\Debug\netcoreapp3.1\API_Opportunities.MvcApplicationPartsAssemblyInfo.cs

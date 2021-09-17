@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {}
+    "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {
+    "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
         "projectName": "API_Clients",
-        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\API_Clients.csproj",
         "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\obj\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\API_Clients\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
-                "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj"
+              "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
+                "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
+    "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
         "projectName": "ClientsDomain",
-        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj",
         "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\obj\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
+    "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
+        "projectUniqueName": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
         "projectName": "ClientsPersistenceDataBase",
-        "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
+        "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
         "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\obj\\",
+        "outputPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,8 +149,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
-                "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj"
+              "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
+                "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj"
               }
             }
           }

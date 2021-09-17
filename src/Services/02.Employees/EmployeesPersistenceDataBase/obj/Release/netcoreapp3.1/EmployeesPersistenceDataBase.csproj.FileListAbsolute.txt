@@ -1,0 +1,13 @@
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Release\netcoreapp3.1\EmployeesPersistenceDataBase.deps.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Release\netcoreapp3.1\EmployeesPersistenceDataBase.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Release\netcoreapp3.1\EmployeesPersistenceDataBase.pdb
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Release\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\bin\Release\netcoreapp3.1\EmployeesDomain.pdb
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.csproj.AssemblyReference.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.AssemblyInfoInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.AssemblyInfo.cs
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.csproj.CopyComplete
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesPersistenceDataBase\obj\Release\netcoreapp3.1\EmployeesPersistenceDataBase.pdb

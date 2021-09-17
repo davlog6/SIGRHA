@@ -1,0 +1,3 @@
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\03.Clients\ClientsDomain\bin\Release\netcoreapp3.1\publish\ClientsDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\03.Clients\ClientsDomain\bin\Release\netcoreapp3.1\publish\ClientsDomain.deps.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\03.Clients\ClientsDomain\bin\Release\netcoreapp3.1\publish\ClientsDomain.pdb

@@ -5,6 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="5.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\OpportunitiesPersistenceDataBase\OpportunitiesPersistenceDataBase.csproj" />
   </ItemGroup>
 

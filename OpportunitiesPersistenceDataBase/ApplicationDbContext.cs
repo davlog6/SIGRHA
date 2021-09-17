@@ -12,5 +12,7 @@ namespace OpportunitiesPersistenceDataBase
         }
 
         public DbSet<OpportunityModel> Opportunity { get; set; }
+        public DbSet<OpportunityDocumentsModel> OpportunityDocuments { get; set; }
+        public DbSet<OpportunityContactModel> OpportunityContact { get; set; }
     }
 }

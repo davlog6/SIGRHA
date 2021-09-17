@@ -1,0 +1,10 @@
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Release\netcoreapp3.1\EmployeesDomain.deps.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Release\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\bin\Release\netcoreapp3.1\EmployeesDomain.pdb
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Release\netcoreapp3.1\EmployeesDomain.csproj.AssemblyReference.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Release\netcoreapp3.1\EmployeesDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Release\netcoreapp3.1\EmployeesDomain.AssemblyInfoInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Release\netcoreapp3.1\EmployeesDomain.AssemblyInfo.cs
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Release\netcoreapp3.1\EmployeesDomain.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Release\netcoreapp3.1\EmployeesDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\src\Services\02.Employees\EmployeesDomain\obj\Release\netcoreapp3.1\EmployeesDomain.pdb

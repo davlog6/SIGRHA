@@ -1,0 +1,3 @@
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\bin\Release\netcoreapp3.1\publish\OpportunitiesDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\bin\Release\netcoreapp3.1\publish\OpportunitiesDomain.deps.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesDomain\bin\Release\netcoreapp3.1\publish\OpportunitiesDomain.pdb

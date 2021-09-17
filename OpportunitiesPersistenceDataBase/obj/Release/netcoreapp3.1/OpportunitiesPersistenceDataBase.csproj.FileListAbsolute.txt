@@ -1,0 +1,16 @@
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\bin\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.deps.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\bin\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.runtimeconfig.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\bin\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.runtimeconfig.dev.json
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\bin\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\bin\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.pdb
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\bin\Release\netcoreapp3.1\OpportunitiesDomain.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\bin\Release\netcoreapp3.1\OpportunitiesDomain.pdb
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.csproj.AssemblyReference.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.AssemblyInfoInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.AssemblyInfo.cs
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.csproj.CopyComplete
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.dll
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.pdb
+C:\Users\ErnestoSustaita\source\repos\davlog6\SIGRHA\OpportunitiesPersistenceDataBase\obj\Release\netcoreapp3.1\OpportunitiesPersistenceDataBase.genruntimeconfig.cache
