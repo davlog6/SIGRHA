@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RtnKXQVrxWD0JAmludg9dgndc5/IdA5+TLPl9RYPn7H8rAXFKqhzErylSPhhH9x5ryZkjZmoIAI3jH0gBSabVQ==",
+  "dgSpecHash": "r1zTKNABCbQ9f90p5p7gYw8CutwtlIeL12vfzoDPvNNArOeqfYma8WBGeihcoleGBozsFTQHiY2IH7Kly6WYTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\API_Opportunities\\API_Opportunities.csproj",
+  "projectFilePath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\API_Opportunities\\API_Opportunities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

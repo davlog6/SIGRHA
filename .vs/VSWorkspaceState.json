@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API_Opportunities"
   ],
-  "SelectedNode": "\\SIGRHA.sln",
+  "SelectedNode": "\\API_Opportunities\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

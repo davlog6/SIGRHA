@@ -5723,11 +5723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
+      "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
       "projectName": "EmployeesPersistenceDataBase",
-      "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
+      "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\EmployeesPersistenceDataBase.csproj",
       "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\obj\\",
+      "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesPersistenceDataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5744,8 +5744,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj": {
-              "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj"
+            "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj": {
+              "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\02.Employees\\EmployeesDomain\\EmployeesDomain.csproj"
             }
           }
         }

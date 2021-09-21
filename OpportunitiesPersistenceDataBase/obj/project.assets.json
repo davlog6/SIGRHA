@@ -6114,11 +6114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\OpportunitiesPersistenceDataBase.csproj",
+      "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\OpportunitiesPersistenceDataBase.csproj",
       "projectName": "OpportunitiesPersistenceDataBase",
-      "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\OpportunitiesPersistenceDataBase.csproj",
+      "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\OpportunitiesPersistenceDataBase.csproj",
       "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\obj\\",
+      "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6135,8 +6135,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\OpportunitiesDomain\\OpportunitiesDomain.csproj": {
-              "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\OpportunitiesDomain\\OpportunitiesDomain.csproj"
+            "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\OpportunitiesDomain\\OpportunitiesDomain.csproj": {
+              "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\OpportunitiesDomain\\OpportunitiesDomain.csproj"
             }
           }
         }

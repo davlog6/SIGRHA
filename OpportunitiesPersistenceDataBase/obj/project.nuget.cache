@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/HKEAfDPSe1OWByiUB661Hq7XqZDkS8VHe8OYkoJ9kBwKZHPEup2Zww9IGdxLZPcnv50vX2tkO3fg8SYlG3DcA==",
+  "dgSpecHash": "ZQCc43fZ2osmfgE1b1eb2EKVpH7dWU0JT87gZKSfkJl5hM/+hW0aeImAW/4Go1LsNcDHRrWCI5gKCd+OoQnbAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\OpportunitiesPersistenceDataBase.csproj",
+  "projectFilePath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\OpportunitiesPersistenceDataBase\\OpportunitiesPersistenceDataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

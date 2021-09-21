@@ -1465,11 +1465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
+      "projectUniqueName": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
       "projectName": "ClientsPersistenceDataBase",
-      "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
+      "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\ClientsPersistenceDataBase.csproj",
       "packagesPath": "C:\\Users\\ErnestoSustaita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\obj\\",
+      "outputPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsPersistenceDataBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ErnestoSustaita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1486,8 +1486,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
-              "projectPath": "C:\\Users\\ErnestoSustaita\\source\\repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj"
+            "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj": {
+              "projectPath": "C:\\Users\\ErnestoSustaita\\Source\\Repos\\davlog6\\SIGRHA\\src\\Services\\03.Clients\\ClientsDomain\\ClientsDomain.csproj"
             }
           }
         }
